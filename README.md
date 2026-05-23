@@ -106,26 +106,26 @@ quiz-project/
 <table>
   <tr>
     <td align="center">
-      <img width="400" height="965" alt="Home" src="https://github.com/user-attachments/assets/e7a94cef-818e-4d6d-a95b-9334ce35f5a6" /><br><b>Home</b>      
+      <img width="965" height="400" alt="Home" src="https://github.com/user-attachments/assets/e7a94cef-818e-4d6d-a95b-9334ce35f5a6" /><br><b>Home</b>      
     </td>
     <td align="center">
-      <img width="400" height="965" alt="Admin Login" src="https://github.com/user-attachments/assets/b7529415-27f3-4417-91c4-3ead64673aa1" /><br><b>Admin Login</b>
+      <img width="965" height="400" alt="Admin Login" src="https://github.com/user-attachments/assets/b7529415-27f3-4417-91c4-3ead64673aa1" /><br><b>Admin Login</b>
     </td>
     <td align="center">
-      <img width="400" height="965" alt="Add Question" src="https://github.com/user-attachments/assets/4c77c8b7-bf8c-4c9b-bf7d-349ddd8a9b55" /><br><b>Add Question</b>      
+      <img width="965" height="400" alt="Add Question" src="https://github.com/user-attachments/assets/4c77c8b7-bf8c-4c9b-bf7d-349ddd8a9b55" /><br><b>Add Question</b>      
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center">
-      <img width="400" height="965" alt="Quiz" src="https://github.com/user-attachments/assets/c88027ef-8e5b-4368-ba60-64099224750b" /><br><b>Quiz</b>
+      <img width="965" height="400" alt="Quiz" src="https://github.com/user-attachments/assets/c88027ef-8e5b-4368-ba60-64099224750b" /><br><b>Quiz</b>
     </td>
     <td align="center">
-      <img width="400" height="965" alt="Result" src="https://github.com/user-attachments/assets/459fe3a4-aaac-40e3-b7a0-21882fd32e0c" /><br><b>Result</b>      
+      <img width="965" height="400" alt="Result" src="https://github.com/user-attachments/assets/459fe3a4-aaac-40e3-b7a0-21882fd32e0c" /><br><b>Result</b>      
     </td>
     <td align="center">
-    <img width="400" height="965" alt="Leaderboard" src="https://github.com/user-attachments/assets/191c884d-4331-431d-a5c7-f2f958fb6770" /><br><b>Leaderboard</b>
+    <img width="965" height="400" alt="Leaderboard" src="https://github.com/user-attachments/assets/191c884d-4331-431d-a5c7-f2f958fb6770" /><br><b>Leaderboard</b>
     </td>
   </tr>
 </table>
